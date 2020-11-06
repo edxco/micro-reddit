@@ -11,15 +11,23 @@
 - Ruby on Rails
 
 
-## Getting Started
+### Setup
 
-- Clone or download the repository https://github.com/ricardomonte/micro-reddit.git
+You can simply run the following command into own terminal to clone the repository `git clone https://github.com/martinnajjar12/micro-reddit`.
 
-- For Linux Users (Ubuntu):
-    - In the folder that contains the cloned repository,right-click.
-    - Click in the option Open in Terminal (this will open the Terminal)
-    - In Terminal run 'Bundle install'
-    - Run 'rails db:migrate'
+### Install
+
+After you clone the repo, make sure you're in the root directory of the project. Now you should run `bundle install` to install all the required dependencies.
+
+### Usage
+
+- You can run the app into your terminal via the following command `rails console`.
+- Now that the console is running, you can try to check all the users that are signed up in this project by running this command `User.all`.
+- If you want, you can see all the posts of a user by typing `User.find(the user_id you want to see his posts).posts`.
+- If you want to create a new User, you can simply type `User.create(username: REQUIRED, password:REQUIRED)`.
+- If you want to create a new Post, you can simply type `Post.create(user_id: REQUIRED, title: REQUIRED, content: REQUIRED)`.
+- If you want to create a new Comment, you can simply type `User.create(user_id: REQUIRED, post_id: REQUIRED, body: REQUIRED)`.
+
 
 
 ## Author 1
