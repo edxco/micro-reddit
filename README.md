@@ -4,16 +4,21 @@
   - Create 3 tables User, Post, Comment, and their associations
   - Each table have their validations
  
-
 ## Built with
 
-- Rails
 - Ruby on Rails
 
+## Getting Started
+
+### Prerequisites
+
+- Ruby ~> [2.7.1p83](https://www.ruby-lang.org/es/downloads/)
+- Ruby on Rails ~> [6.0.3.4](https://rubyonrails.org/)
+- Bundler ~> [2.1.4](https://bundler.io/)
 
 ### Setup
 
-You can simply run the following command into own terminal to clone the repository `git clone https://github.com/martinnajjar12/micro-reddit`.
+You can simply run the following command into your own terminal to clone the repository `git clone https://github.com/edxco/micro-reddit.git`.
 
 ### Install
 
