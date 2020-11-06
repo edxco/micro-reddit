@@ -32,11 +32,11 @@
 
 ## Author 2
 
-👤 **Eduardo Baeza**
+👤 **Blaise Pascal SHYAKA**
 
-- GitHub: [@githubhandle](https://github.com/edxco/)
-- Twitter: [@twitterhandle](https://twitter.com/lalo_nbc/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardo-n-baeza/)
+- GitHub: [@githubhandle](https://github.com/Blaise-Shyaka)
+- Twitter: [@twitterhandle](https://twitter.com/blaise_shyaka95)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blaise-pascal-shyaka)
 
 ## 🤝 Contributing
 
@@ -53,7 +53,3 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Show your support
 
 Give a ⭐️ if you like this project
-
-##  :memo: License
-
-This project is [MIT](LICENSE) licensed.
