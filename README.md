@@ -39,17 +39,17 @@ After you clone the repo, make sure you're in the root directory of the project.
 
 👤 **Eduardo Baeza**
 
-- GitHub: [@githubhandle](https://github.com/edxco/)
-- Twitter: [@twitterhandle](https://twitter.com/lalo_nbc/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardo-n-baeza/)
+- GitHub: [@edxco](https://github.com/edxco/)
+- Twitter: [@lalo_nbc](https://twitter.com/lalo_nbc/)
+- LinkedIn: [eduardo-n-baeza](https://www.linkedin.com/in/eduardo-n-baeza/)
 
 ## Author 2
 
 👤 **Blaise Pascal SHYAKA**
 
-- GitHub: [@githubhandle](https://github.com/Blaise-Shyaka)
-- Twitter: [@twitterhandle](https://twitter.com/blaise_shyaka95)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blaise-pascal-shyaka)
+- GitHub: [@Blaise-Shyaka](https://github.com/Blaise-Shyaka)
+- Twitter: [@blaise_shyaka95](https://twitter.com/blaise_shyaka95)
+- LinkedIn: [blaise-pascal-shyaka](https://www.linkedin.com/in/blaise-pascal-shyaka)
 
 ## 🤝 Contributing
 
